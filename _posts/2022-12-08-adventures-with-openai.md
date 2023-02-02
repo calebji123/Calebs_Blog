@@ -8,6 +8,8 @@ description: >
 sitemap: false
 categories: [coding, games]
 tags: [AI, ChatGPT]
+comments: true
+applause_button: true
 ---
 
 With the power of AI comes scary truths that we have to face. AI can do so much, even if most of it is based on the work of human, it is still frightening to think of their power in relation to us.

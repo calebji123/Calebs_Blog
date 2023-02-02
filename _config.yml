@@ -133,11 +133,13 @@ defaults:
       sitemap:         false
 
   # # You can use the following to enable comments on all posts.
-  # - scope:
-  #     path:             /
-  #     type:            posts
-  #   values:
-  #     comments:        true
+  - scope:
+      path:             /
+      type:            post
+    values:
+      comments:        true
+      applause_button:       true
+
 
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
@@ -176,6 +178,18 @@ kramdown:
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
 # disqus:                <username>
+comments: 
+  provider: giscus
+
+giscus:
+  repo:                "calebji123/Calebs_Blog'"
+  repo-id:             "R_kgDOIwnJHg"
+  category:            "Comments"
+  category-id:         "DIC_kwDOIwnJHs4CT8sr"
+  mapping:             "pathname"
+  reaction-enabled:    "1"
+  theme:               "light"
+  crossorigin:         "anonymous"
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
