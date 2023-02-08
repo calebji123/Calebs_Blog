@@ -7,6 +7,8 @@ image: /assets/img/blog/posts/network.webp
 sitemap: false
 categories: [mathematics]
 tags: [PvsNP, complexity theory]
+comments: true
+applause_button: true
 ---
 
 # A Journey into Complexity

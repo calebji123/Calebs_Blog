@@ -7,6 +7,8 @@ image: /assets/img/blog/posts/society_if.jpeg
 sitemap: false
 categories: [millenium problems]
 tags: [PvsNP]
+comments: true
+applause_button: true
 ---
 
 This is the first part to my series on the Millennium Prize Problems. These problems were selected by the Clay Mathematics Institute in May 2000, and include many famous names like the Reimann hypothesis, Poincaré conjecture and the most pertinent one, P vs NP. Each problem has a $1 000 000 prize, and a guarantee of fame for all who solve one. Evidently, this grand reward is properly assigned, as all these problems but one have withstood the test of time and the cumulative minds of the world's smartest. As well, each holds a lot of significance, making the million dollars ever more valuable.

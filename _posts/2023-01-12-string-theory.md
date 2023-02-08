@@ -7,6 +7,8 @@ image: /assets/img/blog/posts/string_thumbnail.jpeg
 sitemap: false
 categories: [physics]
 tags: [quantum mechanics]
+comments: true
+applause_button: true
 ---
 
 So I watched a video on string theory, and obviously that makes me an expert on this complicated scientific field, so here goes!

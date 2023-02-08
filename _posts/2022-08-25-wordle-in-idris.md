@@ -7,6 +7,8 @@ image: /assets/img/blog/posts/idris_github.jpeg
 sitemap: false
 categories: [coding]
 tags: [Idris, functional programming]
+comments: true
+applause_button: true
 ---
 
 Idris is a functional programming language, similar to Haskell. If you do not know what functional programming languages are, I highly recommend you check them out. Instead of explaining all the basics, I will assume some knowledge of functional programming languages.
