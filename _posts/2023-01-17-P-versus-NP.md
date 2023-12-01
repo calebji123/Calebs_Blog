@@ -37,7 +37,7 @@ Finally, let's look at polynomial time. Time complexity is based on the big-O no
 
 The same _for loop_ described above would have a complexity of O(n). This means, as the input, _n_ increases, the time complexity increases at the same rate. This is linear complexity. Another example is the line of code that always loops once and prints "Hello World". This has complexity of O(1) since it always has the same time complexity no matter what the input _n_ is.
 
-Therefore, the polynomial time basically implies that the time complexity would be only bounded by a polynomial function, like O(n^2^) or O(n^3^). This is different from exponential time and all the subsequently larger time complexities like O(2<sup>n</sup>) or O(2<sup>2<sup>n</sup></sup>).
+Therefore, the polynomial time basically implies that the time complexity would be only bounded by a polynomial function, like O(n<sup>2<sup>) or O(n<sup>3<sup>). This is different from exponential time and all the subsequently larger time complexities like O(2<sup>n</sup>) or O(2<sup>2<sup>n</sup></sup>).
 
 Okay, let's recap. P is a yes or no question that can be solved by a deterministic Turing machine in polynomial time.
 
