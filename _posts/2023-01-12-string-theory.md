@@ -11,7 +11,7 @@ comments: true
 applause_button: true
 ---
 
-So I watched a video on string theory, and obviously that makes me an expert on this complicated scientific field, so here goes!
+So I watched a video on string theory, and obviously that makes me an expert on this complicated scientific field. Here goes!
 
 To understand string theory, you first need to understand what the Quantum Standard Model is. Basically, current quantum physics is trying to unravel the smallest parts of the universe. Though protons and neutrons and electrons are widely known as the building blocks of atoms and all matter, physicists have to wonder what builds these as well.
 
@@ -53,7 +53,7 @@ It turns out, the strings can mimic the standard model, but it also includes the
 
 Now what I was thinking when I heard this was: haha dumb physicists don't know that we live in a 4 dimensional space-time world! But who am I to doubt physicists?
 
-Introducing the idea of (drumrolll....) Compactification!! This method is how 10 spacial dimensions could fit in our 3 spacial dimensions. The common analogy is a straw. Now the surface of a straw is two dimensional, and if extended to infinity, it would almost be like a normal 2D cartesian plane. However, the y axis connects to itself like a circle. An object on the surface of our straw would have the ability to move up and down and to the left and the right. Let now craft an observer who is far enough away that the width of the straw is insignificant, and miraculously the straw is now transparent. An object moving on this plane would now seem to only be moving up and down, as the movement on the y-axis is _compacted_ so that it is not observable! The object moving on two dimensions now seems to be moving in one dimension, we have lost a dimension!
+Introducing the idea of (drumrolll....) Compactification!! This method is how 10 spacial dimensions could fit in our 3 spacial dimensions. The common analogy is a straw. Imagine a vertical straw. Now the surface of a straw is two dimensional, and if extended to infinity, it would almost be like a normal 2D cartesian plane. However, the x axis connects to itself like a circle. An object on the surface of our straw would have the ability to move up and down and to the left and the right. Let now craft an observer who is far enough away that the width of the straw is insignificant, miraculously making the straw basically transparent. An object moving on this plane would now seem to only be moving up and down, as the movement on the y-axis is _compacted_ so that it is not observable! The object moving on two dimensions now seems to be moving in one dimension, we have lost a dimension!
 
 The idea is that the strings in string theory may be moving around in compacted dimensions which are completely unobservable by us. This reconciles the initially ridiculous idea that the mathematic basis of particles are in 10 dimensions.
 
