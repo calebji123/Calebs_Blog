@@ -8,7 +8,8 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    I am currently a student at the University of Toronto studying first year life sciences, thinking about applying into med school. I have been coding since I was 12, and I don't plan on stopping. I am currently focused on web development, particularly game development through javascript. I have recently also started learning functional programming through languages such as Elm and Idris.
+    I'm a second year student studying Bioinformatics and Computational Biology at the University of Toronto.
+    Currently researching at Wainberg Lab studying machine learning application to finding causal genes of GWAS studies.
 
   # This photo will be used in the about section
   picture:
